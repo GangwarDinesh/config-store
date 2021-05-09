@@ -1,6 +1,0 @@
-product:
-  name: TV
-  category: Electronics
-  price: 10
-  environment:
-    type: local
