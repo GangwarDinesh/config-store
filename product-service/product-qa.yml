@@ -4,3 +4,7 @@ product:
   price: 1000
   environment:
     type: QA
+vehicle:
+ default:
+  model: cross over
+duration: all
