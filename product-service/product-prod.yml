@@ -4,3 +4,7 @@ product:
   price: 10000
   environment:
     type: Production
+ vehicle:
+ default:
+  model: cross over
+duration: all
