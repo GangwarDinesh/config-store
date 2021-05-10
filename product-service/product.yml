@@ -4,3 +4,7 @@ product:
   price: 10
   environment:
     type: local
+vehicle:
+ default:
+  model: cross over
+duration: all
