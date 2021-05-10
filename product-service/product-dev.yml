@@ -4,3 +4,7 @@ product:
   price: 100
   environment:
     type: Development
+vehicle:
+ default:
+  model: cross over
+duration: all
